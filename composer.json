@@ -1,0 +1,11 @@
+{
+    "name": "bitpress/bit_wc_zoho_crm",
+    "description": "WooCommerce Zoho CRM Integration plugin by Bitpress",
+    "license": "gpl-2",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "BitPress\\BIT_WC_ZOHO_CRM\\": "includes/"
+        }
+    }
+}
